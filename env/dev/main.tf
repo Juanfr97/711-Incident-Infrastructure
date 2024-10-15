@@ -22,4 +22,3 @@ module "dev_vm" {
   PORT = var.PORT
   MONGO_URL = var.MONGO_URL
 }
-
